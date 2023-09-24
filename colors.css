@@ -1,0 +1,158 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+.header{
+     color: blue;
+     background:whitesmoke;
+}
+.section{
+     padding-top: 40px;
+     padding-bottom: 50px;
+}
+ .col-md-12 h2.head:after{
+     background: orange;
+     content: "";
+     display: block;
+     width:130px;
+     height: 4px;
+     margin:20px auto;
+}
+#menu{
+     float: right;
+     list-style: none;
+}
+#menu li{
+     display: inline-block;
+
+}
+#menu li a{
+     text-decoration: none;
+     padding: 15px 10px;
+     display: block;
+}
+.col-sm-3{
+  float: inline-start;
+     padding:15px 10px;
+     font-size: x-large;
+}
+#menu li a:hover{
+     background:cornsilk;
+}
+.banner{
+     background: url("images/bg5.jpg");
+     display: block;
+     padding: 120px 100px;
+     background-size: cover;
+     margin-top: 10px;
+}
+.col-lg-12{
+     color:  greenyellow;
+     font-style: italic;
+}
+
+.col-lg-12 h1{
+     padding: 20px 40px;
+}
+.col-md-12{
+     text-align: center;
+     padding:20px;
+     color:black;
+}
+.service-box{
+     text-align: center;
+     padding:20px 25px;
+     margin
+}
+.service-box i.bi{
+     font-size: 40px;
+     color:red;
+}
+.testimonial{
+     padding:70px 20px;
+}
+.col-md-12 .head:after{
+     background: orange;
+     content: "";
+     display: block;
+     width:130px;
+     height: 4px;
+     margin:15px auto;
+}
+#testimonial{
+     background: rgba(52, 73, 94,0.7);
+     background-size: 90%;
+     padding: 35px 20px;
+     position: relative;
+     margin-top: 20px;
+     display: flex;
+     }
+     .watchs{
+          color:white;
+     }
+     .col-md-12 h3{
+text-align: center;
+
+     }
+
+       .col-sm-4{
+          padding-top: 80px;
+               padding-bottom: 80px;   
+          }
+.mea{
+     text-align: center;
+     padding: 20px 25px;
+}
+
+#madhav{
+     background-color: bisque;
+     padding-bottom: 30px;
+     margin-bottom: 100px;
+     
+}
+.button{
+     display: inline-block;
+     background-color: red;
+     border-radius: 20px;
+     padding: 8px 20px;
+}
+.yes{
+     color: white;
+}
+    .callme{
+     font-size: 16px;
+     color:brown
+    }
+    #satish{
+     background-color: wheat;
+     margin-top:60px;
+     margin-bottom: 70px;
+     
+    }
+    #madhe{
+     margin-top: 50px;
+     margin-bottom: 50px;
+     
+    }
+    .coln form{
+     
+     line-height: 20px;
+    }
+    #meneu{
+     list-style: none;
+     float: right;
+    }
+    #meneu li{
+     display: inline-block;
+    }
+    #meneu li a{
+     text-decoration: none;
+     padding: 15px 15px;
+     text-align: center;
+     color: black;
+    }
+    #par{
+     text-align: center;
+     line-height: 0px;
+     
+    }
+    .col-sm-4:hover{
+     transform: translate(-5px);
+}
