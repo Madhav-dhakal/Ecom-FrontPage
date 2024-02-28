@@ -7,5 +7,5 @@
 - CSS
   
 ## Getting Started
-- git clone git@github.com:Madhav-dhakal/Shopping_Cart.git
+- git clone git@github.com:Madhav-dhakal/FrontEnd_Ecom.git
 -  open the index.html file in your web browser 
