@@ -1,10 +1,11 @@
-# Frontend WebPage
-- This project is a implementation of  html and css
+# Ecommerce FrontPage
+- This project is a implementation of  UI of ecommerce_site
 
    ## Technologies Used
 
 - HTML
 - CSS
+- Bootstrap
   
 ## Getting Started
 - git clone git@github.com:Madhav-dhakal/FrontEnd_Ecom.git
